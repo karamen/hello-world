@@ -1,3 +1,4 @@
 # hello-world
 first example with Github
-Check out on local PC (karamen PC)
+1. Check out on local PC (karamen PC)
+2. create "feature" branch
